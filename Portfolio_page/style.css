@@ -21,10 +21,14 @@ nav span{
     color: #E6EDF3 ;
 }
 nav ul{
-    width: 30rem;
+    width: 40rem;
     display: flex;
     list-style: none;
     justify-content: space-evenly;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #00BFFF;
 }
 nav ul li {
     color: #00BFFF ;
